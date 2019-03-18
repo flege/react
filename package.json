@@ -1,8 +1,8 @@
 {
-  "name": "baru",
+  "name": "react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://flege.github.io/baru",
+  "homepage": "https://flege.github.io/react",
   "dependencies": {
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
